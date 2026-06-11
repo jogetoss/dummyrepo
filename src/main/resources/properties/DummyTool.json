@@ -1,0 +1,14 @@
+[
+    {
+        "title": "@@dummy.config@@",
+        "properties": [
+            {
+                "name": "message",
+                "label": "@@dummy.message@@",
+                "type": "textfield",
+                "required": "false",
+                "value": ""
+            }
+        ]
+    }
+]
