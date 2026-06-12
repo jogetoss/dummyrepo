@@ -27,7 +27,7 @@ public class DummyTool extends DefaultApplicationPlugin {
 
     @Override
     public String getLabel() {
-        return getMessage("dummy.label");
+        return getMessage("dummy.labelffff");
     }
 
     @Override
