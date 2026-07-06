@@ -2,7 +2,7 @@
 
 A minimal Joget plugin used to practice GitHub workflows, branch protection, and security settings.
 
-## What it does
+## What It Does
 
 **Dummy Tool** is a simple Process Tool plugin. When run in a process, it logs a configurable message and returns it.
 
